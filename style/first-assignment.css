@@ -149,11 +149,11 @@ margin: -370px;
     top: 2275.3px;
 } */
 
-.heading-4 {
+/* .heading-6 {
     font-weight: 700;
     font-size: 45px;
     color: #FFFFFF;
-}
+} */
 
 .heading-5 {
     font-weight: 600;
@@ -214,4 +214,9 @@ margin: -370px;
 }
 .last-css{
     gap: 15px;
+}
+.none{
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
 }
