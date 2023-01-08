@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+}
+
+/* /* first section */
+.first-heading {
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.header {
+    background-image: url(../images/banner/banner2.png);
+    width: 1600px;
+    height: 809px;
+    background-position: center;
+}
+
+.text {
+    margin: 0 230px 330px 830px;
+    margin-top: 0 auto;
+    padding-top: 150px;
+}
+
+.lorem {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+}
+
+.primary-btn {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: right;
+    background: #F15B22;
+    border-radius: 5px;
+    padding: 20px 25px;
+    margin-top: 32px;
+    border: 0;
+
+}
+
+.section-2 {
+    display: flex;
+    margin: 130px 332px 130px 206px;
+    gap: 87px;
+}
+
+.center {
+    /* padding: 370px; */
+    margin-top: 230px;
+}
+
+.img {}
+
+/* .center {
+max-width: 410px;
+margin: -370px;
+} */
+
+.header-2 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.section-3 {}
+
+.heading-3 {
+    font-weight: 700;
+    font-size: 40px;
+    /* align-items: center; */
+    text-align: center;
+}
+
+.skills {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.skill {
+    gap: 90px;
+    /* justify-content: space-around; */
+    /* display: flex; */
+}
+
+.centers {
+    display: flex;
+    gap: 90px;
+    margin: 50px 230px;
+}
+
+.lorem2 {
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.img-1 {
+    margin-bottom: 28px;
+    /* align-items: center; */
+    /* justify-content: center; */
+    gap: 220px;
+    /* align-items: center; */
+    /* margin-left: 320px; */
+}
+
+.lorem-2 {
+    margin-top: 15px;
+}
+
+.mindset {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.lol-5 {
+    background: url(../images/watch.png);
+    background-repeat: no-repeat;
+    /* justify-items: center; */
+    /* display: flex; */
+    align-items: center;
+    margin: 130px 230px;
+    /* display: inline-block; */
+}
+
+.call-button {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: 0;
+    background: #FFFFFF;
+    color: #F15B22;
+    /* font-weight: 600; */
+    font-size: 20px;
+    padding: 20px 35px;
+    margin-top: 20px;
+}
+
+.text-align {
+    /* sorry to use position:absolute */
+    position: absolute;
+    width: 459px;
+    height: 182px;
+    left: 294px;
+    top: 2275.3px;
+}
+
+.heading-4 {
+    font-weight: 700;
+    font-size: 45px;
+    color: #FFFFFF;
+}
+
+.heading-5 {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.my-activities {
+    background: black;
+    display: flex;
+    gap: 330px;
+    padding: 130px;
+
+}
+
+.color {
+    color: #FFFFFF;
+    /* font-weight: 400; */
+    font-size: 16px;
+
+}
+
+.align-11 {
+    gap: 20px;
+}
+.sub-button {
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 20px 35px;
+    border: 0;
+    height: 64px;
+    width: 170.11px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 19px;
+    /* margin-top: 15px; */
+}
+
+.email-style {
+    font-size: 15px;
+    width: 325px;
+    height: 64px;
+    background: #151414;
+    color: #F3F3F3;;
+    border-radius: 8px;
+    border: 1px solid #F3F3F3;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    /* margin: 21px 158px; */
+}
+.color-1{
+    margin-top: 15px;
+    margin-bottom: 24px;
+}
+.color-3{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.last-css{
+    gap: 15px;
+}
