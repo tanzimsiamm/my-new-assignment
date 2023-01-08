@@ -112,7 +112,7 @@ margin: -370px;
 }
 
 .mindset {
-    color: #FFFFFF;
+    color: black
     font-weight: 700;
     font-size: 40px;
 }
@@ -120,11 +120,11 @@ margin: -370px;
 .lol-5 {
     background: url(../images/watch.png);
     background-repeat: no-repeat;
-    /* justify-items: center; */
-    /* display: flex; */
+    justify-items: center;
+    display: flex;
     align-items: center;
     margin: 130px 230px;
-    /* display: inline-block; */
+    display: inline-block;
 }
 
 .call-button {
@@ -140,14 +140,14 @@ margin: -370px;
     margin-top: 20px;
 }
 
-.text-align {
+/* .text-align {
     /* sorry to use position:absolute */
     position: absolute;
     width: 459px;
     height: 182px;
     left: 294px;
     top: 2275.3px;
-}
+} */
 
 .heading-4 {
     font-weight: 700;
